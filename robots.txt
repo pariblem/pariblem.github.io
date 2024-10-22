@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://pariblem.github.io/pariblem.txt.gz
+Sitemap: https://pariblem.github.io/app/pariblem.txt.gz
+Sitemap: https://pariblem.github.io/assets/pariblem.txt.gz
+Sitemap: https://pariblem.github.io/css/pariblem.txt.gz
+Sitemap: https://pariblem.github.io/includes/pariblem.txt.gz
+Sitemap: https://pariblem.github.io/item/pariblem.txt.gz
+Sitemap: https://pariblem.github.io/src/pariblem.txt.gz
